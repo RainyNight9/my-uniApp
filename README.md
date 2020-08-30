@@ -2,7 +2,7 @@
 
 ### 开发准备
 
-1.下载 HBuilder App开发版 [!下载地址](https://www.dcloud.io/hbuilderx.html)
+1.下载 HBuilder App开发版 [下载地址](https://www.dcloud.io/hbuilderx.html)
 
 2.下载 微信开发者工具 [!下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
 
