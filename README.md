@@ -4,11 +4,11 @@
 
 1.下载 HBuilder App开发版 [下载地址](https://www.dcloud.io/hbuilderx.html)
 
-2.下载 微信开发者工具 [!下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
+2.下载 微信开发者工具 [下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
 
-3.下载 谷歌浏览器Chrome [!下载地址](https://www.google.cn/chrome/)
+3.下载 谷歌浏览器Chrome [下载地址](https://www.google.cn/chrome/)
 
-4.官方文档学习 [!uni-app官网](https://uniapp.dcloud.io/)
+4.官方文档学习 [uni-app官网](https://uniapp.dcloud.io/)
 
 ### 开发初始了解
 
